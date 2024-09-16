@@ -93,6 +93,7 @@ export interface Permissions {
   MOUNT_UNMOUNT_FILESYSTEMS: "android.permission.MOUNT_UNMOUNT_FILESYSTEMS";
   NFC: "android.permission.NFC";
   PERSISTENT_ACTIVITY: "android.permission.PERSISTENT_ACTIVITY";
+  PACKAGE_USAGE_STATS: 'android.permission.PACKAGE_USAGE_STATS';
   POST_NOTIFICATIONS: "android.permission.POST_NOTIFICATIONS";
   PROCESS_OUTGOING_CALLS: "android.permission.PROCESS_OUTGOING_CALLS";
   READ_CALENDAR: "android.permission.READ_CALENDAR";

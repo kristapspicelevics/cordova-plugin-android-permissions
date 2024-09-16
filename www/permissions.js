@@ -92,6 +92,7 @@ function Permissions() {
     this.MOUNT_UNMOUNT_FILESYSTEMS = 'android.permission.MOUNT_UNMOUNT_FILESYSTEMS';
     this.NFC = 'android.permission.NFC';
     this.PERSISTENT_ACTIVITY = 'android.permission.PERSISTENT_ACTIVITY';
+    this.PACKAGE_USAGE_STATS = 'android.permission.PACKAGE_USAGE_STATS';
     this.POST_NOTIFICATIONS = 'android.permission.POST_NOTIFICATIONS';
     this.PROCESS_OUTGOING_CALLS = 'android.permission.PROCESS_OUTGOING_CALLS';
     this.READ_CALENDAR = 'android.permission.READ_CALENDAR';
